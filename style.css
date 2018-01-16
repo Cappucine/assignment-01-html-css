@@ -15,15 +15,17 @@ header {
   margin-right:10px;
   background-color:#e1ccfc;
   border: 3px solid 	#ae86d8;
-  position:absolute;
+  position:relative;
   font-family:Arial;
+  float:left;
 
 }
 img {
   float:right;
   border: 3px solid 	#57bead;
-  border-spacing: 2px
+  border-spacing: 2px;
   position:relative;
+  margin:0px 20px 30px 20px;
 }
 p {
   font-family:Arial;
