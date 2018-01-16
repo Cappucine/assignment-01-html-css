@@ -1,3 +1,22 @@
 article {
-    background:  #0000;;
+    background:  #fcfbfc;
+}
+header {
+    width:100%;
+    background-color:#e4f4fc;
+}
+.main {
+  margin-left:auto;
+  margin-right:auto;
+}
+.sources {
+  margin-left:auto;
+  margin-right:auto;
+  background-color:#e1ccfc;
+  border: 2px solid 	#57bead;
+  border-radius:5%;
+}
+img {
+  float:right;
+  border: 2px solid 	#57bead;
 }
