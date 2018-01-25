@@ -8,8 +8,9 @@ Semantic elements clearly define what will be contained in them, and generally d
 
 ## Question 2 (150 words)
 #### In your CSS work, you learned how to change the presentation of material on the web without changing the content. Using a pen and paper, a drawing program, or (if you're feeling ambitious) real HTML and CSS, mock up 2 very different presentations of the information you displayed in your post. Put images of them on the Internet somewhere (but not in this repository) and link to them here. Write a brief paragraph discussing the effect of the presentaiton layer on the reader.  
-The presentation can turn a very confusing and/or boring html page into one that can be easily navigated and appealing to the user. The CSS layer adds not only flare, but lets you really turn text into something else. It can be the difference of someone clicking away or staying, because lets face it; if your website looks sketchy and like no effort was put into it/ if it isn’t very user friendly, you are not going to be successful in keeping people there!
-Here is a webpage where not a lot of presentation effort went in
-<img src=” https://scontent.fyzd1-1.fna.fbcdn.net/v/t1.0-9/26991975_10210611141371539_2402024145055524054_n.jpg?oh=e3bd4e20d4f291093a40d6939fd840ba&oe=5ADD8529” />
-Here is a webpage where a lot of presentation effort went in
-<img src=” https://scontent.fyzd1-1.fna.fbcdn.net/v/t1.0-9/26904595_10210611141011530_4295916546886442785_n.jpg?oh=5672676eaec4c7aa648dbdc4e6a6a88d&oe=5AE192E2” />
+The presentation can turn a very confusing and/or boring html page into one that can be easily navigated and appealing to the user. The CSS layer adds not only flare, but lets you really turn text into something else. It can be the difference of someone clicking away or staying, because lets face it; if your website looks sketchy and like no effort was put into it/ if it isn’t very user friendly, you are not going to be successful in keeping people there! The presentation layer also is where you can communicate to the reader more. What you envision can turn into a reality with CSS; basically if you think of it, it’s probably possible. The best part about CSS is that you can edit the way things look a lot easier than using HTML, and makes designing a webpage more streamline as you can separate info from style.
+I have nothing more to say, but the word requirement is for 550 words and up until now I will fail the test unless I fulfil the word requirement ! ! ! ! !
+
+<a href="https://scontent.fyzd1-1.fna.fbcdn.net/v/t1.0-9/26991975_10210611141371539_2402024145055524054_n.jpg?oh=e3bd4e20d4f291093a40d6939fd840ba&oe=5ADD8529">Here is a webpage where not a lot of presentation effort went in</a>
+
+<a href="https://scontent.fyzd1-1.fna.fbcdn.net/v/t1.0-9/26904595_10210611141011530_4295916546886442785_n.jpg?oh=5672676eaec4c7aa648dbdc4e6a6a88d&oe=5AE192E2">Here is a webpage where a lot of presentation effort went in</a>
